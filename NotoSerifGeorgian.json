@@ -3,7 +3,7 @@
   "image": {
     "name": "/home/videosdownloader/public_html/image/public/uploadt/NotoSerifGeorgian-VariableFont_wdth,wght.ttf",
     "baseName": "NotoSerifGeorgian-VariableFont_wdth,wght.ttf",
-    "format": "TTF",
+    "format": "TTF", 
     "formatDescription": "TTF",
     "class": "DirectClass",
     "geometry": {
