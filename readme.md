@@ -2,7 +2,7 @@
 
 Explore the wonders of our Solar System in an immersive 3D experience! Witness the rotation of planets around the Sun and their self-rotation in this interactive web-based application developed using Three.js.
 
-![]()
+![](https://github.com/Rish151/3DSolarSystem/blob/main/gif/Explore%20the%203D%20Solar%20System%20.gif)
 
 ## Table of Contents
 
